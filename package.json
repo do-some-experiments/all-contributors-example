@@ -1,0 +1,23 @@
+{
+  "name": "all-contributors-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do-some-experiments/all-contributors-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/do-some-experiments/all-contributors-example/issues"
+  },
+  "homepage": "https://github.com/do-some-experiments/all-contributors-example#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.16.1"
+  }
+}
